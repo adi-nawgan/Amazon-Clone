@@ -209,6 +209,45 @@ span{
     color: #007185;
 }
 
+/* movie section */
+
+.box9
+{
+    height: 270px;
+    width: 96.8%;
+    background-color: white;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    
+}
+.box-moviecontent{
+    height: 200px;
+    margin: 0px 0px 14px;
+    display: flex;
+    align-items: center;
+  
+}
+
+.box9 h2{
+    color: #0f1111;
+    margin-top: 1rem;
+    margin-left: 1rem;
+
+}
+.box-movieImg{
+    height: 200px;
+    width: 200px;
+    margin-top: 10px;
+    margin-left: 10px;
+    background-size: 100% 100%;
+    justify-content: space-evenly;
+    background-size: cover;   
+
+}
+.lastimg{
+    margin-right: 10px;
+}
+
 /** footer section **/
 
 .footer{
