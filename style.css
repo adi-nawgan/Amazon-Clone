@@ -248,6 +248,46 @@ span{
     margin-right: 10px;
 }
 
+/* sign in hero section */
+.newcust{
+    height: 125px;
+    width: 100%;
+    background-color: white;
+    
+
+}
+.signin-title{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    margin-top: 25px;
+    font-size: 13px;
+}
+.action-button button{
+    background-color: #f9a435;
+    padding-top:5px;
+    padding-left:80px;
+    padding-right: 80px;
+    padding-bottom: 5px;
+    border-radius: 5px;
+    border-style: none;
+    font-weight: 700;
+    margin: 5px;
+}
+.action-button button:hover{
+    background: #d78b27;
+}
+
+.start{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    font-size: 13px;
+}
+.start a{
+    color: #007185;
+}
+
 /** footer section **/
 
 .footer{
